@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/AsenaGelisli-photo.jpg"
+  avatar           : "AsenaGelisli-photo.jpg"
   name             : "Kubra Asena Gelisli"
   pronouns         : # example: "she/her"  
   bio              : "I am a Ph.D. candidate at the University of Illinois at Urbana-Champaign, specializing in catalytic surface recombination for thermal protection systems in hypersonic applications. I hold a B.S. and M.S. in Mechanical Engineering from TOBB University of Economics and Technology, Turkey."
